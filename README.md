@@ -12,3 +12,7 @@ A simple digital clock GUI app that shows the current time and updates every sec
 - Swing
 - Threads
 - LocalTime
+
+## How to Run:
+- Open in IntelliJ or any Java IDE
+- Run `DigitalClock.java`
